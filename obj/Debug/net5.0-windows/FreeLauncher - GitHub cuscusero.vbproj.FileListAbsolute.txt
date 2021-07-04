@@ -1,0 +1,19 @@
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\bin\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.exe
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\bin\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.deps.json
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\bin\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.runtimeconfig.json
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\bin\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.runtimeconfig.dev.json
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\bin\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.dll
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\bin\Debug\net5.0-windows\ref\FreeLauncher - GitHub cuscusero.dll
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\bin\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.pdb
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.vbprojAssemblyReference.cache
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher___GitHub_cuscusero.Form1.resources
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.vbproj.GenerateResource.cache
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.AssemblyInfoInputs.cache
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.AssemblyInfo.vb
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.vbproj.CoreCompileInputs.cache
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.dll
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\ref\FreeLauncher - GitHub cuscusero.dll
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.pdb
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher - GitHub cuscusero.genruntimeconfig.cache
+C:\Users\cuscusero\source\repos\FreeLauncher - GitHub cuscusero\obj\Debug\net5.0-windows\FreeLauncher___GitHub_cuscusero.Resources.resources
