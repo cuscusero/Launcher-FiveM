@@ -2,9 +2,9 @@
 
 <img src="https://cdn.discordapp.com/attachments/673960683695767553/861245008711385138/unknown.png" alt="preview" />
 
-#Español
+# Español
 
-##Funciones  
+## Funciones  
 - Entrar al servidor de discord
 - Abrir la web  
 - Conectarse al servidor  
@@ -17,9 +17,9 @@ Codigo Abierto |         Visual Basic
 -------------  | ---------------------------
   Cuscusero    | Aplicación de Windows Forms
 
-#English
+# English
 
-##Functions
+##F unctions
 - Enter the discord server
 - Open the web
 - Connect to the server
