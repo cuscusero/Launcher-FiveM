@@ -19,7 +19,7 @@ Codigo Abierto |         Visual Basic
 
 # English
 
-##F unctions
+## Functions
 - Enter the discord server
 - Open the web
 - Connect to the server
