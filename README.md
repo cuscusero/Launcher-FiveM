@@ -16,6 +16,10 @@
 Codigo Abierto |         Visual Basic
 -------------  | ---------------------------
   Cuscusero    | Aplicación de Windows Forms
+ 
+## Necesitas soporte o ayuda? entra en mi discord
+
+- [Discord](https://discord.gg/W66ZG6GMMV)  
 
 # English
 
@@ -32,5 +36,7 @@ Open Source    |        Visual Basic
 -------------  | -------------------------
   Cuscusero    | Windows Forms application
 
-[Discord](https://discord.gg/W66ZG6GMMV)  
+## Yo need support or help? join on my discord
+
+- [Discord](https://discord.gg/W66ZG6GMMV)  
 
